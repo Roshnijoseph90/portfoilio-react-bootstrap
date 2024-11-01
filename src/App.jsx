@@ -1,5 +1,6 @@
 import React from 'react'
-import Navigation from './Components/Navigation'
+import Navigation  from './Components/Navigation'
+
 const App = () => {
   return (
     <div>
@@ -9,3 +10,4 @@ const App = () => {
 }
 
 export default App
+
