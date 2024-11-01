@@ -8,7 +8,7 @@ const Navigation = () => {
     <Navbar className="p-3 justify-content-between">
 
      <Navbar.Brand href="#home">
-     <Image src="vite.jpeg" alt="Logo" height="40px" />
+     <Image src="vite.svg" alt="Logo" height="40px" />
     </Navbar.Brand>
     <Nav className="ml-auto">
       <Nav.Link href="#mentor">Mentorship</Nav.Link>
